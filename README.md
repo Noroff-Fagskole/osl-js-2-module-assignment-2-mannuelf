@@ -4,7 +4,7 @@
 
 ## Brief
 
-Use the array of objects in this repo this repo for Level 1.
+Use the array of objects in this repo this [repo](https://github.com/NoroffFEU/ma-javascript2-module2) for Level 1.
 
 Use modules (imports/exports) where you think they are appropriate.
 
@@ -22,7 +22,7 @@ Use modules (imports/exports) where you think they are appropriate.
 
 ## Delivery
 
-## Submission
+### Submission
 
 - Push all changes to Github Classroom Repository
 - Submit PDF with a GitHub Repository URL inside of it
