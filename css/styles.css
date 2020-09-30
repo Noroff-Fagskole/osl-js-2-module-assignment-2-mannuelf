@@ -1,0 +1,19 @@
+.complete {
+  text-decoration: line-through;
+}
+
+.books {
+  list-style: none;
+}
+
+.books li {
+  background-color: #eee;
+  width: 100%;
+  padding: 1em;
+}
+
+.books li i {
+  float: right;
+  cursor: pointer;
+  color: darkred;
+}
