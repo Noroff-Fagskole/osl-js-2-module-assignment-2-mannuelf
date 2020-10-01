@@ -43,8 +43,7 @@ function removeFromList(e) {
   const idToDelete = e.target.dataset.item;
   console.log(idToDelete);
   const newBooks = globalBooks.filter(book => {
-    console.log( idToDelete !== book.isbn);
-    return idToDelete !== book.isbn
+    return parseInt(idToDelete) !== parseInt(book.isbn);
   });
   console.log(newBooks);
   globalBooks = newBooks;
