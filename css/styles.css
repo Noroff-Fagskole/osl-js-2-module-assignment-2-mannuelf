@@ -4,6 +4,7 @@
 
 .books {
   list-style: none;
+  width: 100%;
 }
 
 .books li {
@@ -16,4 +17,10 @@
   float: right;
   cursor: pointer;
   color: darkred;
+}
+
+.warning {
+  background-color: orange;
+  padding: 1em;
+  color: white;
 }
